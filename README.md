@@ -5,4 +5,4 @@ A simple university ranking software using HTML, CSS, Javascript &amp; SQL
 ![](/images/compare.jpg)
 ![](/images/outputbar.jpg)
 ![](/images/outputline.jpg)
-![](/images/outputbar.jpg)
+![](/images/outputpie.jpg)
