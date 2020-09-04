@@ -1,0 +1,1 @@
+PhpMyAdmin->Database->Create Database->ugc->Import->

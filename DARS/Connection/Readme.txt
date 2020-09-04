@@ -1,0 +1,1 @@
+Paste the file in : C:\xampp\htdocs
